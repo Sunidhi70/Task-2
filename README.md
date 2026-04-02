@@ -1,2 +1,2 @@
-# Task-2
-System Modeling and Agile Methods for Ride-Hailing System
+This project presents the design of a ride-hailing system using Software Engineering principles, focusing on system modeling and Agile (Scrum) practices. The system connects passengers and drivers through a centralized platform that enables ride booking, real-time tracking, and payment processing. Various UML models such as the context model, sequence diagram, and state diagram are used to clearly represent system interactions and behavior throughout the ride lifecycle. Agile methodology is applied by dividing development into sprints, defining user stories for both passengers and drivers, and ensuring quality through a well-defined Definition of Done (DoD). Overall, the project demonstrates how structured modeling and iterative development contribute to building scalable, efficient, and maintainable software systems.
+
